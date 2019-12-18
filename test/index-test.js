@@ -51,3 +51,8 @@ console.error("HALP!")
 console.log ("I would be a logger.")
 console.warn("The ATM is out of service please try again later")
 console.error("Processing!")
+var greeting = "";
+var specialGuest = "Neil deGrass Tyso";
+var greetSpecialGuest = "" + specialGuest + "";
+var topic = "space";
+var conversation = `${topic}`;
